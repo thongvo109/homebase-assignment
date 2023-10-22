@@ -16,7 +16,7 @@ The first you can run command line build_runner for Hive
 
 with FVM:
 
-fvm flutter pub run build_runner build --delete-conflicting-outputs
+``` fvm flutter pub run build_runner build --delete-conflicting-outputs ```
 
 You can run project with command line:
 
